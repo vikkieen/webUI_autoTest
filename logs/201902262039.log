@@ -1,0 +1,6 @@
+2019-02-26 20:39:44,074 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-26 20:39:44,075 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-26 20:39:47,608 - BrowserEngine - INFO - starting chrome browser.
+2019-02-26 20:39:48,992 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-26 20:39:50,143 - BrowserEngine - INFO - Maximize the current window
+2019-02-26 20:39:50,146 - BrowserEngine - INFO - set implicitly wait 10 seconds

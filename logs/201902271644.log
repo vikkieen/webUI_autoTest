@@ -1,0 +1,49 @@
+2019-02-27 16:44:02,155 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 16:44:02,156 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 16:44:04,920 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 16:44:05,872 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 16:44:07,002 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 16:44:07,007 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 16:44:07,182 - BasePage - INFO - 输入内容：admin
+2019-02-27 16:44:07,316 - BasePage - INFO - 输入内容：root
+2019-02-27 16:44:07,485 - BasePage - INFO - click the link
+2019-02-27 16:44:13,877 - BasePage - INFO - click the link
+2019-02-27 16:44:14,008 - BasePage - INFO - click the link
+2019-02-27 16:44:14,241 - BasePage - INFO - click the link
+2019-02-27 16:44:14,662 - BasePage - INFO - click the link
+2019-02-27 16:44:16,852 - BasePage - INFO - click the link
+2019-02-27 16:44:16,859 - BasePage - INFO - switch_to_window
+2019-02-27 16:44:18,013 - BasePage - INFO - 输入内容：root
+2019-02-27 16:44:39,960 - BasePage - INFO - click the link
+2019-02-27 16:44:40,223 - BasePage - INFO - click the link
+2019-02-27 16:44:40,281 - BasePage - INFO - driver.switch_to.frame
+2019-02-27 16:44:40,410 - BasePage - INFO - click the link
+2019-02-27 16:44:40,519 - BasePage - INFO - 输入内容：新增的板块
+2019-02-27 16:44:40,755 - BasePage - INFO - click the link
+2019-02-27 16:44:40,768 - BasePage - INFO - switch_to_window
+2019-02-27 16:44:51,649 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:44:51,649 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 16:44:51,649 - BasePage - ERROR - failed to click the link with <pageobjects.delete.Delete object at 0x02D9BF50>
+2019-02-27 16:44:51,994 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:44:52,060 - BasePage - INFO - switch_to_window
+2019-02-27 16:44:52,337 - BasePage - INFO - click the link
+2019-02-27 16:44:54,625 - BasePage - INFO - 输入内容：admin
+2019-02-27 16:44:54,708 - BasePage - INFO - 输入内容：root
+2019-02-27 16:44:54,773 - BasePage - INFO - click the link
+2019-02-27 16:45:11,703 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:45:11,703 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 16:45:11,704 - BasePage - ERROR - failed to click the link with <pageobjects.discuz_post.DiscuzPost object at 0x02DC8F90>
+2019-02-27 16:45:12,129 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:45:15,623 - BasePage - INFO - click the link
+2019-02-27 16:45:15,757 - BasePage - INFO - 输入内容：新版块标题
+2019-02-27 16:45:15,808 - BasePage - INFO - driver.switch_to.frame
+2019-02-27 16:45:15,921 - BasePage - INFO - 输入内容：新版块内容
+2019-02-27 16:45:15,925 - BasePage - INFO - switch_to_window
+2019-02-27 16:45:16,042 - BasePage - INFO - click the link
+2019-02-27 16:45:18,175 - BasePage - INFO - click the link
+2019-02-27 16:45:18,179 - BasePage - INFO - switch_to_window
+2019-02-27 16:45:18,382 - BasePage - INFO - 输入内容：新版块的回帖
+2019-02-27 16:45:18,612 - BasePage - INFO - click the link
+2019-02-27 16:45:20,612 - BrowserEngine - INFO - now,close and quit the browser

@@ -1,0 +1,21 @@
+2019-02-27 10:42:53,843 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 10:42:53,844 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 10:42:56,164 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 10:42:57,245 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 10:42:58,385 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 10:42:58,387 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 10:42:58,594 - BasePage - INFO - 输入内容：admin
+2019-02-27 10:42:58,709 - BasePage - INFO - 输入内容：root
+2019-02-27 10:42:58,795 - BasePage - INFO - click the link
+2019-02-27 10:43:12,251 - BasePage - INFO - click the link
+2019-02-27 10:43:15,698 - BasePage - INFO - click the link
+2019-02-27 10:43:15,836 - BasePage - INFO - 输入内容：标题
+2019-02-27 10:43:15,902 - BasePage - INFO - driver.switch_to.frame
+2019-02-27 10:43:16,045 - BasePage - INFO - 输入内容：hello word
+2019-02-27 10:43:16,052 - BasePage - INFO - switch_to_window
+2019-02-27 10:43:16,185 - BasePage - INFO - click the link
+2019-02-27 10:43:18,258 - BasePage - INFO - click the link
+2019-02-27 10:43:18,265 - BasePage - INFO - switch_to_window
+2019-02-27 10:43:18,493 - BasePage - INFO - 输入内容：这是回帖内容
+2019-02-27 10:43:18,843 - BasePage - INFO - click the link
+2019-02-27 10:43:20,843 - BrowserEngine - INFO - now,close and quit the browser

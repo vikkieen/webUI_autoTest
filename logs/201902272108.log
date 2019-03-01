@@ -1,0 +1,20 @@
+2019-02-27 21:08:49,216 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 21:08:49,216 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:08:51,553 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 21:08:52,380 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 21:08:53,511 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 21:08:53,514 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 21:08:53,665 - BasePage - INFO - 输入内容：admin
+2019-02-27 21:08:53,770 - BasePage - INFO - 输入内容：root
+2019-02-27 21:08:53,855 - BasePage - INFO - click the link
+2019-02-27 21:09:00,228 - BasePage - INFO - 输入内容：haotest
+2019-02-27 21:09:00,636 - BasePage - INFO - click the link
+2019-02-27 21:09:01,755 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 21:09:01,756 - BasePage - ERROR - failed current_window_handle with 'str' object is not callable
+2019-02-27 21:09:01,819 - BasePage - INFO - switch_to_window
+2019-02-27 21:09:03,343 - BasePage - INFO - click the link
+2019-02-27 21:09:14,637 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 21:09:14,637 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 21:09:14,638 - BasePage - ERROR - failed get_element_txt
+2019-02-27 21:09:14,638 - BrowserEngine - INFO - now,close and quit the browser

@@ -1,0 +1,24 @@
+2019-02-27 21:03:24,849 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 21:03:24,850 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:03:28,169 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 21:03:28,731 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 21:03:29,865 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 21:03:29,868 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 21:03:30,020 - BasePage - INFO - 输入内容：admin
+2019-02-27 21:03:30,125 - BasePage - INFO - 输入内容：root
+2019-02-27 21:03:30,204 - BasePage - INFO - click the link
+2019-02-27 21:03:36,349 - BasePage - INFO - 输入内容：haotest
+2019-02-27 21:03:36,441 - BasePage - INFO - click the link
+2019-02-27 21:03:47,433 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 21:03:47,433 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 21:03:58,486 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 21:03:58,486 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 21:03:58,486 - BasePage - ERROR - failed to click the link with <pageobjects.discuz_search.DiscuzSearch object at 0x02DB5F30>
+2019-02-27 21:03:58,878 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 21:04:09,801 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 21:04:09,801 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 21:04:09,801 - BasePage - ERROR - failed get_element_txt
+2019-02-27 21:04:09,801 - BrowserEngine - INFO - now,close and quit the browser

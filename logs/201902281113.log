@@ -1,0 +1,10 @@
+2019-02-28 11:13:18,645 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 11:13:18,645 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 11:13:20,954 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 11:13:21,597 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-28 11:13:22,748 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:13:22,751 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 11:13:33,634 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-28 11:13:33,634 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-28 11:13:33,635 - BrowserEngine - INFO - now,close and quit the browser

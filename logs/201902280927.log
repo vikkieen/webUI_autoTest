@@ -1,0 +1,19 @@
+2019-02-28 09:27:40,417 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 09:27:40,417 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 09:27:42,697 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 09:27:43,668 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-28 09:27:44,835 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 09:27:44,838 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 09:27:44,981 - BasePage - INFO - 输入内容：admin
+2019-02-28 09:27:45,071 - BasePage - INFO - 输入内容：root
+2019-02-28 09:27:45,143 - BasePage - INFO - click the link
+2019-02-28 09:27:51,266 - BasePage - INFO - 输入内容：haotest
+2019-02-28 09:27:51,366 - BasePage - INFO - click the link
+2019-02-28 09:27:51,382 - BasePage - INFO - switch_to_window
+2019-02-28 09:27:52,541 - BasePage - INFO - click the link
+2019-02-28 09:27:52,549 - BasePage - INFO - switch_to_window
+2019-02-28 09:28:04,521 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-28 09:28:04,521 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-28 09:28:04,521 - BasePage - ERROR - failed get_element_txt
+2019-02-28 09:28:04,522 - BrowserEngine - INFO - now,close and quit the browser

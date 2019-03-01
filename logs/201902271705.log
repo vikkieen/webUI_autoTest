@@ -1,0 +1,45 @@
+2019-02-27 17:05:25,690 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 17:05:25,690 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 17:05:28,163 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 17:05:29,424 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 17:05:30,606 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 17:05:30,609 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 17:05:30,744 - BasePage - INFO - 输入内容：admin
+2019-02-27 17:05:30,855 - BasePage - INFO - 输入内容：root
+2019-02-27 17:05:30,927 - BasePage - INFO - click the link
+2019-02-27 17:05:37,324 - BasePage - INFO - click the link
+2019-02-27 17:05:37,510 - BasePage - INFO - click the link
+2019-02-27 17:05:37,726 - BasePage - INFO - click the link
+2019-02-27 17:05:38,246 - BasePage - INFO - click the link
+2019-02-27 17:05:40,426 - BasePage - INFO - click the link
+2019-02-27 17:05:40,449 - BasePage - INFO - switch_to_window
+2019-02-27 17:05:41,597 - BasePage - INFO - 输入内容：root
+2019-02-27 17:06:03,661 - BasePage - INFO - click the link
+2019-02-27 17:06:03,909 - BasePage - INFO - click the link
+2019-02-27 17:06:03,971 - BasePage - INFO - driver.switch_to.frame
+2019-02-27 17:06:04,098 - BasePage - INFO - click the link
+2019-02-27 17:06:04,213 - BasePage - INFO - 输入内容：新增的板块
+2019-02-27 17:06:04,567 - BasePage - INFO - click the link
+2019-02-27 17:06:04,572 - BasePage - INFO - switch_to_window
+2019-02-27 17:06:04,944 - BasePage - INFO - click the link
+2019-02-27 17:06:04,973 - BasePage - INFO - switch_to_window
+2019-02-27 17:06:05,259 - BasePage - INFO - click the link
+2019-02-27 17:06:07,567 - BasePage - INFO - 输入内容：admin
+2019-02-27 17:06:07,661 - BasePage - INFO - 输入内容：root
+2019-02-27 17:06:07,729 - BasePage - INFO - click the link
+2019-02-27 17:06:24,630 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 17:06:24,630 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 17:06:24,630 - BasePage - ERROR - failed to click the link with <pageobjects.discuz_post.DiscuzPost object at 0x02D58F70>
+2019-02-27 17:06:25,018 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 17:06:28,546 - BasePage - INFO - click the link
+2019-02-27 17:06:28,733 - BasePage - INFO - 输入内容：新版块标题
+2019-02-27 17:06:28,795 - BasePage - INFO - driver.switch_to.frame
+2019-02-27 17:06:28,937 - BasePage - INFO - 输入内容：新版块内容
+2019-02-27 17:06:28,941 - BasePage - INFO - switch_to_window
+2019-02-27 17:06:29,074 - BasePage - INFO - click the link
+2019-02-27 17:06:31,193 - BasePage - INFO - click the link
+2019-02-27 17:06:31,198 - BasePage - INFO - switch_to_window
+2019-02-27 17:06:31,403 - BasePage - INFO - 输入内容：新版块的回帖
+2019-02-27 17:06:31,649 - BasePage - INFO - click the link
+2019-02-27 17:06:33,649 - BrowserEngine - INFO - now,close and quit the browser

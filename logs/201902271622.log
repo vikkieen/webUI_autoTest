@@ -1,0 +1,27 @@
+2019-02-27 16:22:24,066 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 16:22:24,066 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 16:22:26,321 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 16:22:27,749 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 16:22:28,900 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 16:22:28,909 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 16:22:29,069 - BasePage - INFO - 输入内容：admin
+2019-02-27 16:22:29,180 - BasePage - INFO - 输入内容：root
+2019-02-27 16:22:29,259 - BasePage - INFO - click the link
+2019-02-27 16:22:35,686 - BasePage - INFO - click the link
+2019-02-27 16:22:35,819 - BasePage - INFO - click the link
+2019-02-27 16:22:36,016 - BasePage - INFO - click the link
+2019-02-27 16:22:36,669 - BasePage - INFO - click the link
+2019-02-27 16:22:38,852 - BasePage - INFO - click the link
+2019-02-27 16:22:38,862 - BasePage - INFO - switch_to_window
+2019-02-27 16:22:40,019 - BasePage - INFO - 输入内容：root
+2019-02-27 16:22:50,985 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:22:50,985 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 16:22:50,985 - BasePage - ERROR - failed to click the link with <pageobjects.delete.Delete object at 0x02C0F290>
+2019-02-27 16:22:51,324 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:23:02,260 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:23:02,260 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 16:23:02,260 - BasePage - ERROR - failed to click the link with <pageobjects.delete.Delete object at 0x02C0F290>
+2019-02-27 16:23:02,631 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:23:02,632 - BrowserEngine - INFO - now,close and quit the browser

@@ -1,0 +1,38 @@
+2019-02-27 16:30:02,821 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 16:30:02,822 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 16:30:05,072 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 16:30:05,988 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 16:30:07,132 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 16:30:07,134 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 16:30:07,287 - BasePage - INFO - 输入内容：admin
+2019-02-27 16:30:07,390 - BasePage - INFO - 输入内容：root
+2019-02-27 16:30:07,471 - BasePage - INFO - click the link
+2019-02-27 16:30:14,041 - BasePage - INFO - click the link
+2019-02-27 16:30:14,141 - BasePage - INFO - click the link
+2019-02-27 16:30:14,363 - BasePage - INFO - click the link
+2019-02-27 16:30:14,861 - BasePage - INFO - click the link
+2019-02-27 16:30:17,006 - BasePage - INFO - click the link
+2019-02-27 16:30:17,019 - BasePage - INFO - switch_to_window
+2019-02-27 16:30:29,045 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 16:30:29,045 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 16:30:29,045 - BrowserEngine - INFO - now,close and quit the browser
+2019-02-27 16:30:38,762 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 16:30:38,762 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 16:30:41,576 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 16:30:42,959 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 16:30:44,121 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 16:30:44,124 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 16:30:44,275 - BasePage - INFO - 输入内容：admin
+2019-02-27 16:30:44,378 - BasePage - INFO - 输入内容：root
+2019-02-27 16:30:44,458 - BasePage - INFO - click the link
+2019-02-27 16:30:50,834 - BasePage - INFO - click the link
+2019-02-27 16:30:51,017 - BasePage - INFO - click the link
+2019-02-27 16:30:51,238 - BasePage - INFO - click the link
+2019-02-27 16:30:51,703 - BasePage - INFO - click the link
+2019-02-27 16:30:53,830 - BasePage - INFO - click the link
+2019-02-27 16:30:53,844 - BasePage - INFO - switch_to_window
+2019-02-27 16:30:54,966 - BasePage - INFO - 输入内容：root
+2019-02-27 16:31:17,077 - BasePage - INFO - click the link
+2019-02-27 16:31:17,317 - BasePage - INFO - click the link
+2019-02-27 16:31:17,318 - BrowserEngine - INFO - now,close and quit the browser

@@ -1,0 +1,43 @@
+2019-02-28 11:33:01,901 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 11:33:01,901 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 11:33:04,765 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 11:33:05,474 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-28 11:33:06,673 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:33:06,674 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 11:33:06,821 - BasePage - INFO - 输入内容：admin
+2019-02-28 11:33:06,919 - BasePage - INFO - 输入内容：root
+2019-02-28 11:33:06,998 - BasePage - INFO - click the link
+2019-02-28 11:33:13,306 - BasePage - INFO - click the link
+2019-02-28 11:33:13,800 - BasePage - INFO - click the link
+2019-02-28 11:33:13,979 - BasePage - INFO - click the link
+2019-02-28 11:33:14,212 - BasePage - INFO - click the link
+2019-02-28 11:33:14,753 - BasePage - INFO - click the link
+2019-02-28 11:33:16,902 - BasePage - INFO - click the link
+2019-02-28 11:33:16,909 - BasePage - INFO - switch_to_window
+2019-02-28 11:33:18,043 - BasePage - INFO - 输入内容：root
+2019-02-28 11:33:40,715 - BasePage - INFO - click the link
+2019-02-28 11:33:40,990 - BasePage - INFO - click the link
+2019-02-28 11:33:41,048 - BasePage - INFO - driver.switch_to.frame
+2019-02-28 11:33:41,183 - BasePage - INFO - click the link
+2019-02-28 11:33:41,330 - BasePage - INFO - 输入内容：新增的板块
+2019-02-28 11:33:41,647 - BasePage - INFO - click the link
+2019-02-28 11:33:41,663 - BasePage - INFO - switch_to_window
+2019-02-28 11:33:42,121 - BasePage - INFO - click the link
+2019-02-28 11:33:42,157 - BasePage - INFO - switch_to_window
+2019-02-28 11:33:42,462 - BasePage - INFO - click the link
+2019-02-28 11:33:44,780 - BasePage - INFO - 输入内容：admin
+2019-02-28 11:33:44,866 - BasePage - INFO - 输入内容：root
+2019-02-28 11:33:44,942 - BasePage - INFO - click the link
+2019-02-28 11:33:51,264 - BasePage - INFO - click the link
+2019-02-28 11:33:54,610 - BasePage - INFO - click the link
+2019-02-28 11:33:58,157 - BasePage - INFO - click the link
+2019-02-28 11:33:58,308 - BasePage - INFO - 输入内容：新版块标题
+2019-02-28 11:33:58,363 - BasePage - INFO - driver.switch_to.frame
+2019-02-28 11:33:58,478 - BasePage - INFO - 输入内容：新版块内容
+2019-02-28 11:33:58,482 - BasePage - INFO - switch_to_window
+2019-02-28 11:33:58,612 - BasePage - INFO - click the link
+2019-02-28 11:34:00,736 - BasePage - INFO - click the link
+2019-02-28 11:34:00,739 - BasePage - INFO - switch_to_window
+2019-02-28 11:34:00,966 - BasePage - INFO - 输入内容：新版块的回帖
+2019-02-28 11:34:01,285 - BasePage - INFO - click the link
+2019-02-28 11:34:03,285 - BrowserEngine - INFO - now,close and quit the browser

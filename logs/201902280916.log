@@ -1,0 +1,11 @@
+2019-02-28 09:16:57,746 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 09:16:57,746 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 09:17:00,606 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 09:17:01,519 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-28 09:17:02,681 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 09:17:02,682 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 09:17:02,807 - BasePage - INFO - 输入内容：admin
+2019-02-28 09:17:02,899 - BasePage - INFO - 输入内容：root
+2019-02-28 09:17:02,971 - BasePage - INFO - click the link
+2019-02-28 09:17:09,086 - BasePage - INFO - 输入内容：haotest
+2019-02-28 09:17:09,087 - BrowserEngine - INFO - now,close and quit the browser

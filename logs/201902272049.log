@@ -1,0 +1,26 @@
+2019-02-27 20:49:07,307 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 20:49:07,307 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 20:49:09,601 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 20:49:10,209 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 20:49:11,356 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 20:49:11,361 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 20:49:11,362 - BrowserEngine - INFO - now,close and quit the browser
+2019-02-27 20:49:43,671 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 20:49:43,672 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 20:49:45,964 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 20:49:46,585 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 20:49:47,742 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 20:49:47,744 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 20:49:47,892 - BasePage - INFO - 输入内容：admin
+2019-02-27 20:49:47,981 - BasePage - INFO - 输入内容：root
+2019-02-27 20:49:48,060 - BasePage - INFO - click the link
+2019-02-27 20:49:54,170 - BasePage - INFO - 输入内容：haotest
+2019-02-27 20:50:07,057 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 20:50:07,058 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 20:50:17,977 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 20:50:17,977 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 20:50:17,977 - BasePage - ERROR - failed to click the link with <pageobjects.discuz_search.DiscuzSearch object at 0x02DBDFD0>
+2019-02-27 20:50:18,364 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 20:50:18,364 - BrowserEngine - INFO - now,close and quit the browser

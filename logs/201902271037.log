@@ -1,0 +1,26 @@
+2019-02-27 10:37:55,256 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-27 10:37:55,256 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-27 10:37:57,657 - BrowserEngine - INFO - starting chrome browser.
+2019-02-27 10:37:58,707 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-27 10:37:59,883 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 10:37:59,884 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-27 10:38:00,017 - BasePage - INFO - 输入内容：admin
+2019-02-27 10:38:00,106 - BasePage - INFO - 输入内容：root
+2019-02-27 10:38:00,179 - BasePage - INFO - click the link
+2019-02-27 10:38:13,623 - BasePage - INFO - click the link
+2019-02-27 10:38:17,079 - BasePage - INFO - click the link
+2019-02-27 10:38:17,214 - BasePage - INFO - 输入内容：标题
+2019-02-27 10:38:17,272 - BasePage - INFO - driver.switch_to.frame
+2019-02-27 10:38:17,423 - BasePage - INFO - 输入内容：hello word
+2019-02-27 10:38:17,428 - BasePage - INFO - switch_to_window
+2019-02-27 10:38:17,568 - BasePage - INFO - click the link
+2019-02-27 10:38:30,458 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 10:38:30,458 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 10:38:30,458 - BasePage - ERROR - failed to click the link with <pageobjects.discuz_return.DiscuzReturn object at 0x02D9DD30>
+2019-02-27 10:38:30,829 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 10:38:30,833 - BasePage - INFO - switch_to_window
+2019-02-27 10:38:41,742 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-27 10:38:41,743 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-27 10:38:41,743 - BrowserEngine - INFO - now,close and quit the browser

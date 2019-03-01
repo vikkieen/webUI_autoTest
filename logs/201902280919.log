@@ -1,0 +1,15 @@
+2019-02-28 09:19:34,957 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 09:19:34,957 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 09:19:37,230 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 09:19:38,176 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-28 09:19:39,347 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 09:19:39,349 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 09:19:39,481 - BasePage - INFO - 输入内容：admin
+2019-02-28 09:19:39,574 - BasePage - INFO - 输入内容：root
+2019-02-28 09:19:39,648 - BasePage - INFO - click the link
+2019-02-28 09:19:45,766 - BasePage - INFO - 输入内容：haotest
+2019-02-28 09:19:45,870 - BasePage - INFO - click the link
+2019-02-28 09:19:46,274 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-28 09:19:46,274 - BasePage - ERROR - failed current_window_handle with 'str' object is not callable
+2019-02-28 09:19:46,284 - BasePage - INFO - switch_to_window
+2019-02-28 09:19:47,421 - BasePage - INFO - click the link

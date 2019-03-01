@@ -1,0 +1,61 @@
+2019-02-28 11:11:11,180 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 11:11:11,180 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 11:11:13,944 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 11:11:14,839 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-28 11:11:15,995 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:11:15,997 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 11:11:16,182 - BasePage - INFO - 输入内容：admin
+2019-02-28 11:11:16,317 - BasePage - INFO - 输入内容：root
+2019-02-28 11:11:16,418 - BasePage - INFO - click the link
+2019-02-28 11:11:22,547 - BasePage - INFO - 输入内容：haotest
+2019-02-28 11:11:22,641 - BasePage - INFO - click the link
+2019-02-28 11:11:22,665 - BasePage - INFO - switch_to_window
+2019-02-28 11:11:23,829 - BasePage - INFO - click the link
+2019-02-28 11:11:23,836 - BasePage - INFO - switch_to_window
+2019-02-28 11:11:25,629 - BasePage - INFO - click the link
+2019-02-28 11:11:25,630 - BrowserEngine - INFO - now,close and quit the browser
+2019-02-28 11:11:39,292 - BrowserEngine - INFO - You had select Chrome browser.
+2019-02-28 11:11:39,292 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/forum.php
+2019-02-28 11:11:42,064 - BrowserEngine - INFO - starting chrome browser.
+2019-02-28 11:11:43,024 - BrowserEngine - INFO - open url:http://127.0.0.1/forum.php
+2019-02-28 11:11:44,158 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:11:44,163 - BrowserEngine - INFO - set implicitly wait 10 seconds
+2019-02-28 11:11:44,341 - BasePage - INFO - 输入内容：admin
+2019-02-28 11:11:44,459 - BasePage - INFO - 输入内容：root
+2019-02-28 11:11:44,539 - BasePage - INFO - click the link
+2019-02-28 11:11:50,990 - BasePage - INFO - click the link
+2019-02-28 11:11:51,157 - BasePage - INFO - click the link
+2019-02-28 11:11:51,475 - BasePage - INFO - click the link
+2019-02-28 11:11:52,345 - BasePage - INFO - click the link
+2019-02-28 11:11:54,512 - BasePage - INFO - click the link
+2019-02-28 11:11:54,518 - BasePage - INFO - switch_to_window
+2019-02-28 11:11:55,687 - BasePage - INFO - 输入内容：root
+2019-02-28 11:12:18,192 - BasePage - INFO - click the link
+2019-02-28 11:12:18,463 - BasePage - INFO - click the link
+2019-02-28 11:12:18,521 - BasePage - INFO - driver.switch_to.frame
+2019-02-28 11:12:18,650 - BasePage - INFO - click the link
+2019-02-28 11:12:18,786 - BasePage - INFO - 输入内容：新增的板块
+2019-02-28 11:12:19,046 - BasePage - INFO - click the link
+2019-02-28 11:12:19,054 - BasePage - INFO - switch_to_window
+2019-02-28 11:12:19,497 - BasePage - INFO - click the link
+2019-02-28 11:12:19,518 - BasePage - INFO - switch_to_window
+2019-02-28 11:12:19,829 - BasePage - INFO - click the link
+2019-02-28 11:12:22,085 - BasePage - INFO - 输入内容：admin
+2019-02-28 11:12:22,179 - BasePage - INFO - 输入内容：root
+2019-02-28 11:12:22,255 - BasePage - INFO - click the link
+2019-02-28 11:12:42,206 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-28 11:12:42,206 - BasePage - ERROR - failed find element with Message: 
+
+2019-02-28 11:12:42,206 - BasePage - ERROR - failed to click the link with <pageobjects.discuz_post.DiscuzPost object at 0x02FBCFD0>
+2019-02-28 11:12:42,564 - BasePage - INFO - had take screenshot and save to folder:/scteenshots
+2019-02-28 11:12:46,143 - BasePage - INFO - click the link
+2019-02-28 11:12:46,297 - BasePage - INFO - 输入内容：新版块标题
+2019-02-28 11:12:46,415 - BasePage - INFO - driver.switch_to.frame
+2019-02-28 11:12:46,521 - BasePage - INFO - 输入内容：新版块内容
+2019-02-28 11:12:46,523 - BasePage - INFO - switch_to_window
+2019-02-28 11:12:46,639 - BasePage - INFO - click the link
+2019-02-28 11:12:48,729 - BasePage - INFO - click the link
+2019-02-28 11:12:48,735 - BasePage - INFO - switch_to_window
+2019-02-28 11:12:49,029 - BasePage - INFO - 输入内容：新版块的回帖
+2019-02-28 11:12:49,579 - BasePage - INFO - click the link
+2019-02-28 11:12:51,580 - BrowserEngine - INFO - now,close and quit the browser
